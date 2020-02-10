@@ -1,5 +1,5 @@
 # Project Euler Notebook
-I prepared this python notebook that contains solutions for Project Euler problems. For those who don't know what is Project Euler, here is a brief introduction and explanation of this project:
+I prepared this python notebook for everyone new to Python. It contains suggested solutions for Project Euler problems. For those who don't know what is Project Euler, here is a brief introduction and explanation of this project:
 
 **Project Euler** is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
